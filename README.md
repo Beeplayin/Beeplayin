@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Bee, from Jones County, GA.<br><br>- 🔭 I’m working as an employee/student for Greyhound Tech<br>- 📚 I'm currently learning how to get a good job opportunity.<br>- ⚡ In my free time I like to solve Rubik's cubes, play video games, and read.</p>
+<p align="left">I'm Jeremiah, from Jones County, GA.<br><br>- 🔭 I’m working as an employee/student for Greyhound Tech<br>- 📚 I'm currently learning how to get a good job opportunity.<br>- ⚡ In my free time I like to solve Rubik's cubes, play video games, and read.</p>
 
 ###
 
